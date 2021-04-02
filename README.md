@@ -39,9 +39,10 @@
 - 기간: 2018.03 ~ 2018.06
 - 저장소: [https://github.com/jwonyLee/CommonChat](https://github.com/jwonyLee/CommonChat)
 
-## 활동
+## 💼 활동
 ### 한빛미디어 도서 서평단 <나는 리뷰어다 2021>
 - 기간: 2021.02 ~
+- [팀 개발을 위한 Git, GitHub 시작하기](https://jwonylee.tistory.com/88)
 
 ### 부스트캠프 2020 챌린지 -iOS
 - 기간: 2020.07 ~ 2020.08
