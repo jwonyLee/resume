@@ -1,8 +1,9 @@
 # 이지원
 
-특정 분야, 플랫폼에 얽매여서 개발하기보다는 관심 있고 흥미 있는 분야라면 다양하게 해보고 싶습니다. 현재는 모바일 개발(iOS, Swift)에 관심을 갖고 공부 중입니다.
+- 특정 분야, 플랫폼에 얽매여서 개발하기보다는 관심 있고 흥미 있는 분야라면 다양하게 해보고 싶습니다. 현재는 모바일 개발(iOS, Swift)에 관심을 갖고 공부 중입니다.
+- 학습하고, 학습한 내용을 글로 정리하는 걸 좋아합니다. 
 
-## 🔗 Contacts & Link
+## 🔗 Contacts
 - Email: jiwon.swdev@gmail.com
 - Github: https://github.com/jwonyLee
 - Blog: https://jwonylee.tistory.com
@@ -43,8 +44,9 @@
 ### 한빛미디어 도서 서평단 <나는 리뷰어다 2021>
 - 기간: 2021.02 ~
 - [팀 개발을 위한 Git, GitHub 시작하기](https://jwonylee.tistory.com/88)
+- [이것이 안드로이드다 with 코틀린(개정판)](https://jwonylee.tistory.com/89)
 
-### 부스트캠프 2020 챌린지 -iOS
+### 부스트캠프 2020 챌린지 - 모바일iOS(Swift)
 - 기간: 2020.07 ~ 2020.08
 - 회고: https://jwonylee.tistory.com/51
 
@@ -57,3 +59,15 @@
 - 2018학년도 동아리 회장
 - 4차년도, 5차년도 지역선도대학 육성사업 프로젝트 참여
 - 기간: 2017 ~ 2018
+
+## 🌱 그 외
+
+### Road-of-CODEr/stupid-week-2021
+- 매 주 최소 3개의 목표를 설정하고 지키는 스터디
+- 기간: 2021.01 ~
+- 저장소: https://github.com/Road-of-CODEr/stupid-week-2021
+- [Pull Requests](https://github.com/Road-of-CODEr/stupid-week-2021/pulls?q=is%3Apr+is%3Aclosed+assignee%3AjwonyLee)
+
+### ios-study-boost/clean-code
+- `clean code` 책 스터디
+- 저장소: https://github.com/ios-study-boost/clean-code
