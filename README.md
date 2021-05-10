@@ -11,6 +11,12 @@
 
 ## 💻 프로젝트
 
+### BeepBeep `진행중`
+- 🎤 Voice Recorder App to prepare for Interviews and Presentations.
+- `iOS`, `Swift`, `Core Data`, `RxSwift`, `RxCocoa`, `SnapKit`, `Then`, `SwiftLint`, `Git`, `Github`
+- 기간: 2021.05.03 ~ 2021.07.31
+- 저장소: https://github.com/jwonyLee/BeepBeep
+
 ### Hazzle-iOS (팀 프로젝트, 3인)
 - 습관 관리 iOS 어플리케이션
 - 습관 작성 화면, 기능 구현, Realm 객체 설계
