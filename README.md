@@ -26,12 +26,15 @@
 - 관련글: https://jwonylee.tistory.com/66
 
 ### 교통대 알리미
+
 - 한국교통대학교 공지사항 새 글 알림 텔레그램 봇
 - 게시판 크롤링 후 데이터 저장, 텔레그램 채널로 메시지 전송
 - `Python` `PostgreSQL` `Git` `Github`
 - 기간: 2020.02
 - 저장소: [https://github.com/jwonyLee/knut-bot](https://github.com/jwonyLee/knut-bot)
 - 관련글: [https://jwonylee.tistory.com/13?category=860680](https://jwonylee.tistory.com/13?category=860680)
+
+<img alt="교통대 알리미 스크린샷" src="https://user-images.githubusercontent.com/15073405/118247909-af329800-b4de-11eb-9bee-451699c46681.png" width="200px">
 
 ### 5차년도 지역선도대학 육성사업 지역산업체연학 프로젝트 참여
 - 공연전시 정보 조회 및 리뷰 작성 어플리케이션
@@ -45,6 +48,8 @@
 - `Android`, `Java`, `xml`, `JSON`, `Firebase`, `Git`, `Github`
 - 기간: 2018.03 ~ 2018.06
 - 저장소: [https://github.com/jwonyLee/CommonChat](https://github.com/jwonyLee/CommonChat)
+
+<img alt="모바일 프로그래밍 수업 팀 프로젝트 스크린샷" src="https://user-images.githubusercontent.com/15073405/118248795-adb59f80-b4df-11eb-928c-85d6898bb40b.png" width="200px">
 
 ## 💼 활동
 ### 한빛미디어 도서 서평단 <나는 리뷰어다 2021>
