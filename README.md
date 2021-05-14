@@ -51,6 +51,7 @@
 - 기간: 2021.02 ~
 - [팀 개발을 위한 Git, GitHub 시작하기](https://jwonylee.tistory.com/88)
 - [이것이 안드로이드다 with 코틀린(개정판)](https://jwonylee.tistory.com/89)
+- [한 권으로 끝내는 Node & Express 2판](https://jwonylee.tistory.com/145)
 
 ### 부스트캠프 2020 챌린지 - 모바일iOS(Swift)
 - 기간: 2020.07 ~ 2020.08
@@ -76,4 +77,5 @@
 
 ### ios-study-boost/clean-code
 - `clean code` 책 스터디
+- 기간: 2021.02 ~ 2021.04
 - 저장소: https://github.com/ios-study-boost/clean-code
