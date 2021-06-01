@@ -13,7 +13,7 @@
 
 ### BeepBeep `진행중`
 - 🎤 Voice Recorder App to prepare for Interviews and Presentations.
-- `iOS`, `Swift`, `Core Data`, `RxSwift`, `RxCocoa`, `SnapKit`, `Then`, `SwiftLint`, `Git`, `Github`
+- `iOS`, `Swift`, `RxSwift`, `RxCocoa`, `Realm`, `SnapKit`, `Then`, `SwiftLint`, `Git`, `Github`
 - 기간: 2021.05.03 ~ 2021.07.31
 - 저장소: https://github.com/jwonyLee/BeepBeep
 
