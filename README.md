@@ -52,6 +52,7 @@
 <img alt="모바일 프로그래밍 수업 팀 프로젝트 스크린샷" src="https://user-images.githubusercontent.com/15073405/118248795-adb59f80-b4df-11eb-928c-85d6898bb40b.png" width="200px">
 
 ## 💼 활동
+
 ### 한빛미디어 도서 서평단 <나는 리뷰어다 2021>
 - 기간: 2021.02 ~
 - [팀 개발을 위한 Git, GitHub 시작하기](https://jwonylee.tistory.com/88)
@@ -74,9 +75,14 @@
 
 ## 🌱 그 외
 
+### jwonyLee/objects-swift
+- `오브젝트: 코드로 이해하는 객체지향 설계` 책 스터디
+- 기간: 2021.05 ~ 진행중
+- 저장소: https://github.com/jwonyLee/objects-swift
+
 ### Road-of-CODEr/stupid-week-2021
 - 매 주 최소 3개의 목표를 설정하고 지키는 스터디
-- 기간: 2021.01 ~
+- 기간: 2021.01 ~ 진행중
 - 저장소: https://github.com/Road-of-CODEr/stupid-week-2021
 - [Pull Requests](https://github.com/Road-of-CODEr/stupid-week-2021/pulls?q=is%3Apr+is%3Aclosed+assignee%3AjwonyLee)
 
